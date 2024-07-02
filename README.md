@@ -1,4 +1,8 @@
-[![MasterHead](https://i.ibb.co/THZb30L/github-header-image.png)](https://rishavchanda.io)
+<div align="center">
+  <a href="https://saifur.io">
+    <img src="https://i.ibb.co/THZb30L/github-header-image.png" alt="MasterHead">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm S M SAIFUR RAHMAN</h1>
 <h3 align="center">A passionate web developer</h3>
 
