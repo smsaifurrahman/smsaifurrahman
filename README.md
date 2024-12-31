@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm S M SAIFUR RAHMAN</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **Next.js Typescript**
+- 🌱 I’m currently learning **Next.js Redux**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, Typesript**
 
 - 📫 How to reach me **smsaifur525@gmail.com**
 
