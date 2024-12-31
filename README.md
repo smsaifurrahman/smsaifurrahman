@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js Redux**
 
-- 💬 Ask me about **react, Typesript**
+- 💬 Ask me about **react, TypeSript**
 
 - 📫 How to reach me **smsaifur525@gmail.com**
 
